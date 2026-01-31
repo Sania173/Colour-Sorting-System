@@ -99,6 +99,7 @@ The structure supports:
 
 A full presentation covering the system design, PCB schematic, CAD models, block diagrams, and system demonstration is available below:
 
-[View Full Project Presentation (PDF)](documentation/CSS ppt.pdf)
+[View Full Project Presentation (PDF)](CSS ppt.pdf)
+
 
 
