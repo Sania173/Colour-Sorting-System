@@ -9,7 +9,7 @@ A colour sensor connected to an Arduino detects the colour of an object. Based o
 - Arduino
 - Colour sensor
 - Servo/Motor control
-
+- 
 ## Key Learning Points
 - Interfacing sensors with microcontrollers
 - Real-time sensor data processing
