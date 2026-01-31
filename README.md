@@ -94,5 +94,11 @@ The structure supports:
 - Calibration of real-world sensor data  
 - Integrating hardware and software in embedded systems  
 - Designing modular, readable Arduino code  
-- Developing simple but effective decision-making logic  
+- Developing simple but effective decision-making logic
+  ## Project Documentation
+
+A full presentation covering the system design, PCB schematic, CAD models, block diagrams, and system demonstration is available below:
+
+[View Full Project Presentation (PDF)](documentation/CSS ppt.pdf)
+
 
